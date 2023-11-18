@@ -12,7 +12,7 @@
         android:layout_width="297dp"
         android:layout_height="32dp"
         android:layout_marginStart="24dp"
-        android:ems="15"
+        android:ems="12"
         android:inputType="text"
         android:text="Ingrese Masa Corporal"
         android:textSize="20dp"
