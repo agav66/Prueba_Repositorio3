@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         etAltura = (EditText) findViewById(R.id.etAltura);
         Resultado = (TextView) findViewById(R.id.textView3);
         Calcular = (Button) findViewById(R.id.btnResultado);
-
+        System.out.println("Hola");
 
         };
 
